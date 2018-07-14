@@ -1,0 +1,11 @@
+{
+  "name": "heroku-deploy",
+  "version": "1.0.0",
+  "description": "how to deploy node project on heroku?",
+  "main": "app.js",
+  "author": "Shivam Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
